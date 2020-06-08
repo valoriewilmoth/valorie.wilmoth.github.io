@@ -1,4 +1,4 @@
-# valorie.wilmoth.github.io
+# valoriewilmoth.github.io
 
 # Hello, World!
 
